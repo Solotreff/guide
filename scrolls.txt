@@ -1,0 +1,368 @@
+// ---------- Bless ----------
+:Scroll_Bless_Cost_Gold: 3
+:Scroll_Bless_Cost_Mandragora: 1
+:Scroll_Bless_Cost_Production_Time: 20
+:Scroll_Bless_Cost_Mana: 8
+:Scroll_Bless_Cost_AP: 1
+:Scroll_Bless_Level: 1
+:Scroll_Bless_Distance: 4
+// ???????????? ??????? ?? ???
+:Scroll_Bless_Quant: 3
+:Scroll_Bless_Chance_Orc: 5
+:Scroll_Bless_Chance_Reserved: 0
+:Scroll_Bless_Chance_Kraken: 5
+:Scroll_Bless_Chance_Driller: 10
+:Scroll_Bless_Might: 3
+
+
+// ---------- Supersensing ----------
+:Scroll_Supersensing_Cost_Mandragora: 1
+:Scroll_Supersensing_Cost_Wood: 5
+:Scroll_Supersensing_Cost_Production_Time: 20
+:Scroll_Supersensing_Cost_Mana: 12
+:Scroll_Supersensing_Cost_AP: 1
+:Scroll_Supersensing_Level: 2
+:Scroll_Supersensing_Distance: 4
+:Scroll_Supersensing_Quant: 2
+:Scroll_Supersensing_Chance_Orc: 5
+:Scroll_Supersensing_Chance_Reserved: 0
+:Scroll_Supersensing_Chance_Kraken: 5
+:Scroll_Supersensing_Chance_Driller: 10
+:Scroll_Supersensing_Might: 4
+
+// ---------- Blind ----------
+:Scroll_Blind_Cost_Gold: 20
+:Scroll_Blind_Cost_Mandragora: 1
+:Scroll_Blind_Cost_Production_Time: 50
+:Scroll_Blind_Cost_Mana: 25
+:Scroll_Blind_Cost_AP: 1
+:Scroll_Blind_Level: 3
+:Scroll_Blind_Distance: 3
+:Scroll_Blind_Quant: 1
+:Scroll_Blind_Chance_Orc: 3
+:Scroll_Blind_Chance_Reserved: 0
+:Scroll_Blind_Chance_Kraken: 5
+:Scroll_Blind_Chance_Driller: 5
+:Scroll_Blind_Might: 6
+
+// ---------- Curse ---------- // Проклятие
+:Scroll_Curse_Cost_Gold: 6
+:Scroll_Curse_Cost_Stone: 1
+:Scroll_Curse_Cost_Production_Time: 22
+:Scroll_Curse_Cost_Mana: 8
+:Scroll_Curse_Cost_AP: 1
+:Scroll_Curse_Level: 1
+:Scroll_Curse_Distance: 4
+:Scroll_Curse_Quant: 3
+:Scroll_Curse_Chance_Orc: 5
+:Scroll_Curse_Chance_Reserved: 0
+:Scroll_Curse_Chance_Kraken: 0
+:Scroll_Curse_Chance_Driller: 10
+:Scroll_Curse_Might: 4
+
+// ---------- Weakness ---------- // Слабость
+:Scroll_Weakness_Cost_Gold: 8
+:Scroll_Weakness_Cost_Stone: 2
+:Scroll_Weakness_Cost_Production_Time: 36
+:Scroll_Weakness_Cost_Mana: 8
+:Scroll_Weakness_Cost_AP: 1
+:Scroll_Weakness_Level: 1
+:Scroll_Weakness_Distance: 4
+:Scroll_Weakness_Quant: 2
+:Scroll_Weakness_Chance_Orc: 5
+:Scroll_Weakness_Chance_Reserved: 0
+:Scroll_Weakness_Chance_Kraken: 0
+:Scroll_Weakness_Chance_Driller: 6
+:Scroll_Weakness_Might: 4
+
+// ---------- Clone ----------  // Отражение
+:Scroll_Clone_Cost_Gold: 10
+:Scroll_Clone_Cost_Stone: 3
+:Scroll_Clone_Cost_Production_Time: 18
+:Scroll_Clone_Cost_Mana: 16
+:Scroll_Clone_Cost_AP: 1
+:Scroll_Clone_Level: 3
+:Scroll_Clone_Distance: 5
+:Scroll_Clone_Quant: 1
+:Scroll_Clone_Chance_Orc: 5
+:Scroll_Clone_Chance_Reserved: 0
+:Scroll_Clone_Chance_Kraken: 5
+:Scroll_Clone_Chance_Driller: 5
+:Scroll_Clone_Might: 5
+
+// ---------- Disguise ----------   // Маскировка
+:Scroll_Disguise_Cost_Gold: 6
+:Scroll_Disguise_Cost_Stone: 6
+:Scroll_Disguise_Cost_Production_Time: 18
+:Scroll_Disguise_Cost_Mana: 16
+:Scroll_Disguise_Cost_AP: 1
+:Scroll_Disguise_Level: 2
+:Scroll_Disguise_Distance: 3
+:Scroll_Disguise_Quant: 2
+:Scroll_Disguise_Chance_Orc: 5
+:Scroll_Disguise_Chance_Reserved: 0
+:Scroll_Disguise_Chance_Kraken: 0
+:Scroll_Disguise_Chance_Driller: 5
+:Scroll_Disguise_Might: 4
+
+// ---------- Forget ----------     // Забывчивость
+:Scroll_Forget_Cost_Gold: 6
+:Scroll_Forget_Cost_Metal: 2
+:Scroll_Forget_Cost_Production_Time: 24
+:Scroll_Forget_Cost_Mana: 20
+:Scroll_Forget_Cost_AP: 1
+:Scroll_Forget_Level: 3
+:Scroll_Forget_Distance: 3
+:Scroll_Forget_Quant: 1
+:Scroll_Forget_Chance_Orc: 2
+:Scroll_Forget_Chance_Reserved: 0
+:Scroll_Forget_Chance_Kraken: 5
+:Scroll_Forget_Chance_Driller: 10
+:Scroll_Forget_Might: 7
+
+// ---------- Blackthorn ---------- // Куст терновника
+:Scroll_Blackthorn_Cost_Wood: 6
+:Scroll_Blackthorn_Cost_Metal: 3
+:Scroll_Blackthorn_Cost_Production_Time: 18
+:Scroll_Blackthorn_Cost_Mana: 15
+:Scroll_Blackthorn_Cost_AP: 1
+:Scroll_Blackthorn_Level: 1
+:Scroll_Blackthorn_Distance: 4
+:Scroll_Blackthorn_Quant: 3
+:Scroll_Blackthorn_Chance_Orc: 8
+:Scroll_Blackthorn_Chance_Reserved: 0
+:Scroll_Blackthorn_Chance_Kraken: 0
+:Scroll_Blackthorn_Chance_Driller: 10
+:Scroll_Blackthorn_Might: 1
+
+// ---------- Spiderweb ----------  // Паутина
+:Scroll_Spiderweb_Cost_Gold: 8
+:Scroll_Spiderweb_Cost_Wood: 2
+:Scroll_Spiderweb_Cost_Production_Time: 36
+:Scroll_Spiderweb_Cost_Mana: 20
+:Scroll_Spiderweb_Cost_AP: 1
+:Scroll_Spiderweb_Level: 2
+:Scroll_Spiderweb_Distance: 3
+:Scroll_Spiderweb_Quant: 2
+:Scroll_Spiderweb_Chance_Orc: 7
+:Scroll_Spiderweb_Chance_Reserved: 0
+:Scroll_Spiderweb_Chance_Kraken: 0
+:Scroll_Spiderweb_Chance_Driller: 10
+:Scroll_Spiderweb_Might: 3
+
+// ---------- Firewall ----------
+:Scroll_Firewall_Cost_Wood: 15
+:Scroll_Firewall_Cost_Production_Time: 28
+:Scroll_Firewall_Cost_Mana: 20
+:Scroll_Firewall_Cost_AP: 1
+:Scroll_Firewall_Level: 1
+:Scroll_Firewall_Distance: 4
+:Scroll_Firewall_Quant: 3
+:Scroll_Firewall_Chance_Orc: 5
+:Scroll_Firewall_Chance_Reserved: 0
+:Scroll_Firewall_Chance_Kraken: 0
+:Scroll_Firewall_Chance_Driller: 10
+:Scroll_Firewall_Might: 1
+
+// ---------- Rain ----------
+:Scroll_Rain_Cost_Gold: 1
+:Scroll_Rain_Cost_Wood: 5
+:Scroll_Rain_Cost_Metal: 3
+:Scroll_Rain_Cost_Production_Time: 18
+:Scroll_Rain_Cost_Mana: 12
+:Scroll_Rain_Cost_AP: 1
+:Scroll_Rain_Level: 2
+:Scroll_Rain_Distance: 5
+:Scroll_Rain_Quant: 2
+:Scroll_Rain_Chance_Orc: 0
+:Scroll_Rain_Chance_Reserved: 0
+:Scroll_Rain_Chance_Kraken: 0
+:Scroll_Rain_Chance_Driller: 10
+:Scroll_Rain_Might: 7
+
+// ---------- Maelstrom ----------      // Вихрь
+:Scroll_Maelstrom_Cost_Mandragora: 2
+:Scroll_Maelstrom_Cost_Production_Time: 22
+:Scroll_Maelstrom_Cost_Mana: 25
+:Scroll_Maelstrom_Cost_AP: 1
+:Scroll_Maelstrom_Level: 3
+:Scroll_Maelstrom_Distance: 3
+:Scroll_Maelstrom_Quant: 2
+:Scroll_Maelstrom_Chance_Orc: 3
+:Scroll_Maelstrom_Chance_Reserved: 0
+:Scroll_Maelstrom_Chance_Kraken: 5
+:Scroll_Maelstrom_Chance_Driller: 10
+:Scroll_Maelstorm_Might: 7
+
+// ---------- Immobilization ---------- // Обездвиживание
+:Scroll_Immobilization_Cost_Gold: 50
+:Scroll_Immobilization_Cost_Production_Time: 0
+:Scroll_Immobilization_Cost_Mana: 20
+:Scroll_Immobilization_Cost_AP: 1
+:Scroll_Immobilization_Level: 4
+:Scroll_Immobilization_Distance: 3
+:Scroll_Immobilization_Quant: 1
+:Scroll_Immobilization_Chance_Orc: 0
+:Scroll_Immobilization_Chance_Reserved: 0
+:Scroll_Immobilization_Chance_Kraken: 2
+:Scroll_Immobilization_Chance_Driller: 1
+:Scroll_Immobilization_Might: 9
+
+// ---------- Truce ----------          // Перемирие
+:Scroll_Truce_Cost_Gold: 100
+:Scroll_Truce_Cost_Production_Time: 0
+:Scroll_Truce_Cost_Mana: 20
+:Scroll_Truce_Cost_AP: 1
+:Scroll_Truce_Level: 4
+:Scroll_Truce_Distance: 3
+:Scroll_Truce_Quant: 1
+:Scroll_Truce_Chance_Orc: 0
+:Scroll_Truce_Chance_Reserved: 0
+:Scroll_Truce_Chance_Kraken: 0
+:Scroll_Truce_Chance_Driller: 0
+:Scroll_Truce_Might: 9
+
+// ---------- Diffusion ----------      // Рассеивание
+:Scroll_Diffusion_Cost_Mandragora: 2
+:Scroll_Diffusion_Cost_Production_Time: 13
+:Scroll_Diffusion_Cost_Mana: 16
+:Scroll_Diffusion_Cost_AP: 1
+:Scroll_Diffusion_Level: 4
+:Scroll_Diffusion_Distance: 3
+:Scroll_Diffusion_Quant: 1
+:Scroll_Diffusion_Chance_Orc: 1
+:Scroll_Diffusion_Chance_Reserved: 0
+:Scroll_Diffusion_Chance_Kraken: 1
+:Scroll_Diffusion_Chance_Driller: 2
+:Scroll_Diffusion_Might: 5
+
+// ---------- Pentagram ----------
+:Scroll_Pentagram_Cost_Gold: 10
+:Scroll_Pentagram_Cost_Mandragora: 2
+:Scroll_Pentagram_Cost_Production_Time: 20
+:Scroll_Pentagram_Cost_Mana: 25
+:Scroll_Pentagram_Cost_AP: 1
+:Scroll_Pentagram_Level: 3
+:Scroll_Pentagram_Distance: 1
+:Scroll_Pentagram_Quant: 1
+:Scroll_Pentagram_Chance_Orc: 4
+:Scroll_Pentagram_Chance_Reserved: 0
+:Scroll_Pentagram_Chance_Kraken: 0
+:Scroll_Pentagram_Chance_Driller: 7
+:Scroll_Pentagram_Might: 5
+
+// ---------- Rainbow ----------    // Радуга
+:Scroll_Rainbow_Cost_Gold: 3
+:Scroll_Rainbow_Cost_Metal: 2
+:Scroll_Rainbow_Cost_Production_Time: 10
+:Scroll_Rainbow_Cost_Mana: 20
+:Scroll_Rainbow_Cost_AP: 1
+:Scroll_Rainbow_Level: 1
+:Scroll_Rainbow_Distance: 4
+:Scroll_Rainbow_Quant: 2
+:Scroll_Rainbow_Chance_Orc: 5
+:Scroll_Rainbow_Chance_Reserved: 0
+:Scroll_Rainbow_Chance_Kraken: 0
+:Scroll_Rainbow_Chance_Driller: 10
+:Scroll_Rainbow_Might: 2
+
+// ---------- Purify ----------     // Очищение
+:Scroll_Purify_Cost_Diffusion: 3
+:Scroll_Purify_Cost_Production_Time: 0
+:Scroll_Purify_Cost_Mana: 20
+:Scroll_Purify_Cost_AP: 1
+:Scroll_Purify_Level: 4
+:Scroll_Purify_Distance: 4
+:Scroll_Purify_Quant: 1
+:Scroll_Purify_Chance_Orc: 0
+:Scroll_Purify_Chance_Reserved: 0
+:Scroll_Purify_Chance_Kraken: 0
+:Scroll_Purify_Chance_Driller: 0
+:Scroll_Purify_Might: 9
+
+// ---------- Portal ----------
+:Scroll_Portal_Cost_Mandragora: 200
+:Scroll_Portal_Cost_Production_Time: 100
+:Scroll_Portal_Cost_Mana: 30
+:Scroll_Portal_Cost_AP: 1
+:Scroll_Portal_Level: 4
+:Scroll_Portal_Distance: 2
+:Scroll_Portal_Quant: 1
+:Scroll_Portal_Chance_Orc: 0
+:Scroll_Portal_Chance_Reserved: 0
+:Scroll_Portal_Chance_Kraken: 5
+:Scroll_Portal_Chance_Driller: 5
+:Scroll_Portal_Might: 2
+
+// ---------- Cancel ----------     // Отмена
+:Scroll_Cancel_Cost_Mandragora: 2
+:Scroll_Cancel_Cost_Production_Time: 12
+:Scroll_Cancel_Cost_Mana: 25
+:Scroll_Cancel_Cost_AP: 1
+:Scroll_Cancel_Level: 3
+:Scroll_Cancel_Distance: 2
+:Scroll_Cancel_Quant: 1
+:Scroll_Cancel_Chance_Orc: 0
+:Scroll_Cancel_Chance_Reserved: 0
+:Scroll_Cancel_Chance_Kraken: 0
+:Scroll_Cancel_Chance_Driller: 0
+:Scroll_Cancel_Might: 5
+
+// ---------- Mine ----------
+:Scroll_Mine_Cost_Gold: 50
+:Scroll_Mine_Cost_Wood: 40
+:Scroll_Mine_Cost_Production_Time: 38
+:Scroll_Mine_Cost_Mana: 20
+:Scroll_Mine_Cost_AP: 1
+:Scroll_Mine_Level: 3
+:Scroll_Mine_Distance: 2
+:Scroll_Mine_Quant: 1
+:Scroll_Mine_Chance_Orc: 5
+:Scroll_Mine_Chance_Reserved: 0
+:Scroll_Mine_Chance_Kraken: 0
+:Scroll_Mine_Chance_Driller: 5
+:Scroll_Mine_Might: 5
+
+// ---------- Gargoyle ----------
+:Scroll_Gargoyle_Cost_Gold: 50
+:Scroll_Gargoyle_Cost_Stone: 50
+:Scroll_Gargoyle_Cost_Production_Time: 12
+:Scroll_Gargoyle_Cost_Mana: 30
+:Scroll_Gargoyle_Cost_AP: 1
+:Scroll_Gargoyle_Level: 3
+:Scroll_Gargoyle_Distance: 2
+:Scroll_Gargoyle_Quant: 1
+:Scroll_Gargoyle_Chance_Orc: 5
+:Scroll_Gargoyle_Chance_Reserved: 0
+:Scroll_Gargoyle_Chance_Kraken: 5
+:Scroll_Gargoyle_Chance_Driller: 10
+:Scroll_Gargoyle_Might: 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

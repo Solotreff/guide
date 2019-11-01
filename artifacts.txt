@@ -1,0 +1,373 @@
+// ---------- Settlers ----------
+:Settlers_Cost_Gold: 50
+:Settlers_Cost_Dust: 1
+
+// ---------- Telescope ----------
+:Telescope_Cost_Gold: 10
+:Telescope_Cost_Wood: 5
+:Telescope_Cost_Metal: 5
+:Telescope_Cost_Dust: 1
+
+// ---------- Sokol ----------
+:Sokol_Cost_Gold: 10
+:Sokol_Cost_Metal: 5
+:Sokol_Cost_Dust: 1
+
+// ---------- Apple ----------
+:Apple_Cost_Gold: 10
+:Apple_Cost_Wood: 10
+:Apple_Cost_Dust: 1
+
+// ---------- Shield ----------
+:Shield_Inventory_Max: 50
+:Shield_Vagon_Max: 50
+:Shield_lifetime_weeks: 10
+:Shield_hours: 10
+:Shield_level: 1
+:Shield_might: 1
+:Shield_origin_city: 5
+
+:Shield_Cost_Wood: 10
+:Shield_Cost_Dust: 1
+
+:Shield_Chance_Orc: 5
+:Shield_Chance_Reserved: 0
+:Shield_Chance_Kraken: 3
+:Shield_Chance_Driller: 10
+
+// ---------- Leather armor ----------
+:LeatherArmor_Inventory_Max: 50
+:LeatherArmor_Vagon_Max: 50
+:LeatherArmor_lifetime_weeks: 10
+:LeatherArmor_hours: 8
+:LeatherArmor_level: 1
+:LeatherArmor_might: 1
+:LeatherArmor_origin_city: 3
+
+:LeatherArmor_Cost_Gold: 5
+:LeatherArmor_Cost_Wood: 5
+:LeatherArmor_Cost_Dust: 1
+
+:LeatherArmor_Chance_Orc: 5
+:LeatherArmor_Chance_Reserved: 0
+:LeatherArmor_Chance_Kraken: 3
+:LeatherArmor_Chance_Driller: 5
+
+// ---------- Golden armor ----------
+:GoldenArmor_Inventory_Max: 50
+:GoldenArmor_Vagon_Max: 50
+:GoldenArmor_lifetime_weeks: 10
+:GoldenArmor_hours: 16
+:GoldenArmor_level: 1
+:GoldenArmor_might: 3
+:GoldenArmor_origin_city: 5
+
+:GoldenArmor_Cost_Gold: 5
+:GoldenArmor_Cost_Wood: 10
+:GoldenArmor_Cost_Metal: 10
+:GoldenArmor_Cost_Dust: 1
+
+:GoldenArmor_Chance_Orc: 1
+:GoldenArmor_Chance_Reserved: 0
+:GoldenArmor_Chance_Kraken: 1
+:GoldenArmor_Chance_Driller: 2
+
+// ---------- Hammer ----------
+:Hammer_Inventory_Max: 50
+:Hammer_Vagon_Max: 50
+:Hammer_lifetime_weeks: 10
+:Hammer_hours: 6
+:Hammer_level: 1
+:Hammer_might: 1
+:Hammer_origin_city: 2
+
+:Hammer_Cost_Gold: 5
+:Hammer_Cost_Wood: 10
+:Hammer_Cost_Metal: 10
+:Hammer_Cost_Dust: 1
+
+:Hammer_Chance_Orc: 3
+:Hammer_Chance_Reserved: 0
+:Hammer_Chance_Kraken: 6
+:Hammer_Chance_Driller: 10
+
+// ---------- ShortSword ----------
+:ShortSword_Inventory_Max: 50
+:ShortSword_Vagon_Max: 50
+:ShortSword_lifetime_weeks: 10
+:ShortSword_hours: 12
+:ShortSword_level: 1
+:ShortSword_might: 1
+:ShortSword_origin_city: 3
+
+:ShortSword_Cost_Gold: 10
+:ShortSword_Cost_Metal: 15
+:ShortSword_Cost_Dust: 1
+
+:ShortSword_Chance_Orc: 3
+:ShortSword_Chance_Reserved: 0
+:ShortSword_Chance_Kraken: 6
+:ShortSword_Chance_Driller: 0
+
+// ---------- Scepter ----------
+:Scepter_Inventory_Max: 50
+:Scepter_Vagon_Max: 50
+:Scepter_lifetime_weeks: 10
+:Scepter_hours: 20
+:Scepter_level: 1
+:Scepter_might: 1
+:Scepter_origin_city: 2
+
+:Scepter_Cost_Gold: 10
+:Scepter_Cost_Wood: 5
+:Scepter_Cost_Metal: 5
+:Scepter_Cost_Dust: 1
+
+:Scepter_Chance_Orc: 3
+:Scepter_Chance_Reserved: 0
+:Scepter_Chance_Kraken: 6
+:Scepter_Chance_Driller: 10
+
+// ---------- Bludgeon ----------
+:Bludgeon_Inventory_Max: 50
+:Bludgeon_Vagon_Max: 50
+:Bludgeon_lifetime_weeks: 10
+:Bludgeon_hours: 15
+:Bludgeon_level: 1
+:Bludgeon_might: 1
+:Bludgeon_origin_city: 5
+
+:Bludgeon_Cost_Wood: 5
+:Bludgeon_Cost_Metal: 5
+:Bludgeon_Cost_Dust: 1
+
+:Bludgeon_Chance_Orc: 0
+:Bludgeon_Chance_Reserved: 0
+:Bludgeon_Chance_Kraken: 0
+:Bludgeon_Chance_Driller: 0
+
+// ---------- Bow ----------
+:Bow_Inventory_Max: 50
+:Bow_Vagon_Max: 50
+:Bow_lifetime_weeks: 10
+:Bow_hours: 20
+:Bow_level: 1
+:Bow_might: 1
+:Bow_origin_city: 3
+
+:Bow_Cost_Gold: 5
+:Bow_Cost_Wood: 10
+:Bow_Cost_Metal: 5
+:Bow_Cost_Dust: 1
+
+:Bow_Chance_Orc: 3
+:Bow_Chance_Reserved: 0
+:Bow_Chance_Kraken: 6
+:Bow_Chance_Driller: 10
+
+// ---------- Claymore ----------
+:Claymore_Inventory_Max: 50
+:Claymore_Vagon_Max: 50
+:Claymore_lifetime_weeks: 10
+:Claymore_hours: 10
+:Claymore_level: 1
+:Claymore_might: 1
+:Claymore_origin_city: 1
+
+:Claymore_Cost_Gold: 10
+:Claymore_Cost_Wood: 5
+:Claymore_Cost_Metal: 5
+:Claymore_Cost_Dust: 1
+
+:Claymore_Chance_Orc: 0
+:Claymore_Chance_Reserved: 0
+:Claymore_Chance_Kraken: 0
+:Claymore_Chance_Driller: 0
+
+// ---------- Mace ----------
+:Mace_Inventory_Max: 50
+:Mace_Vagon_Max: 50
+:Mace_lifetime_weeks: 10
+:Mace_hours: 10
+:Mace_level: 1
+:Mace_might: 1
+:Mace_origin_city: 1
+
+:Mace_Cost_Gold: 5
+:Mace_Cost_Wood: 5
+:Mace_Cost_Metal: 10
+:Mace_Cost_Dust: 1
+
+:Mace_Chance_Orc: 0
+:Mace_Chance_Reserved: 0
+:Mace_Chance_Kraken: 0
+:Mace_Chance_Driller: 0
+
+
+// ---------- InquisitorSword ----------
+:InquisitorSword_Inventory_Max: 50
+:InquisitorSword_Vagon_Max: 50
+:InquisitorSword_lifetime_weeks: 4
+:InquisitorSword_hours: 0
+:InquisitorSword_level: 1
+:InquisitorSword_might: 1
+:InquisitorSword_origin_city: 0
+
+:InquisitorSword_Chance_Orc: 0
+:InquisitorSword_Chance_Reserved: 0
+:InquisitorSword_Chance_Kraken: 0
+:InquisitorSword_Chance_Driller: 0
+
+// ---------- Rose ----------
+:Rose_Inventory_Max: 50
+:Rose_Vagon_Max: 50
+:Rose_lifetime_weeks: 10
+:Rose_hours: 0
+:Rose_level: 1
+:Rose_might: 1
+:Rose_origin_city: 0
+
+:Rose_Cost_Gold: 10
+:Rose_Cost_Wood: 10
+:Rose_Cost_Dust: 1
+
+:Rose_Chance_Orc: 3
+:Rose_Chance_Reserved: 0
+:Rose_Chance_Kraken: 4
+:Rose_Chance_Driller: 3
+
+// ---------- Scourge ----------
+:Scourge_Inventory_Max: 50
+:Scourge_Vagon_Max: 50
+:Scourge_lifetime_weeks: 6
+:Scourge_hours: 0
+:Scourge_level: 1
+:Scourge_might: 1
+:Scourge_origin_city: 0
+
+:Scourge_Cost_Gold: 80
+:Scourge_Cost_Wood: 150
+:Scourge_Cost_Metal: 50
+:Scourge_Cost_Dust: 1
+
+:Scourge_Chance_Orc: 2
+:Scourge_Chance_Reserved: 0
+:Scourge_Chance_Kraken: 1
+:Scourge_Chance_Driller: 1
+
+// ---------- Red Boots ----------
+:RedBoots_Inventory_Max: 50
+:RedBoots_Vagon_Max: 50
+:RedBoots_lifetime_weeks: 4
+:RedBoots_hours: 50
+:RedBoots_level: 1
+:RedBoots_might: 1
+:RedBoots_origin_city: 0
+
+:RedBoots_Cost_Gold: 100
+:RedBoots_Cost_Dust: 1
+
+:RedBoots_Chance_Orc: 0
+:RedBoots_Chance_Reserved: 0
+:RedBoots_Chance_Kraken: 0
+:RedBoots_Chance_Driller: 5
+
+// ---------- Boots ----------
+:Boots_Inventory_Max: 50
+:Boots_Vagon_Max: 50
+:Boots_lifetime_weeks: 10
+:Boots_hours: 15
+:Boots_level: 1
+:Boots_might: 1
+:Boots_origin_city: 4
+
+:Boots_Cost_Gold: 20
+:Boots_Cost_Wood: 5
+:Boots_Cost_Metal: 5
+:Boots_Cost_Dust: 1
+
+:Boots_Chance_Orc: 5
+:Boots_Chance_Reserved: 0
+:Boots_Chance_Kraken: 6
+:Boots_Chance_Driller: 10
+
+// ---------- Helmet ----------
+:Helmet_Inventory_Max: 50
+:Helmet_Vagon_Max: 50
+:Helmet_lifetime_weeks: 10
+:Helmet_hours: 10
+:Helmet_level: 1
+:Helmet_might: 1
+:Helmet_origin_city: 1
+
+:Helmet_Cost_Gold: 5
+:Helmet_Cost_Metal: 5
+:Helmet_Cost_Dust: 1
+
+:Helmet_Chance_Orc: 3
+:Helmet_Chance_Reserved: 0
+:Helmet_Chance_Kraken: 4
+:Helmet_Chance_Driller: 10
+
+// ---------- InvisibilityHat ----------
+:InvisibilityHat_Inventory_Max: 50
+:InvisibilityHat_Vagon_Max: 50
+:InvisibilityHat_lifetime_weeks: 7
+:InvisibilityHat_hours: 10
+:InvisibilityHat_level: 1
+:InvisibilityHat_might: 1
+:InvisibilityHat_origin_city: 0
+
+:InvisibilityHat_Cost_Gold: 100
+:InvisibilityHat_Cost_Wood: 50
+:InvisibilityHat_Cost_Metal: 50
+:InvisibilityHat_Cost_Dust: 1
+
+:InvisibilityHat_Chance_Orc: 3
+:InvisibilityHat_Chance_Reserved: 0
+:InvisibilityHat_Chance_Kraken: 2
+:InvisibilityHat_Chance_Driller: 3
+
+// ---------- Amulet ----------
+:Amulet_Inventory_Max: 50
+:Amulet_Vagon_Max: 50
+:Amulet_lifetime_weeks: 10
+:Amulet_hours: 15
+:Amulet_level: 1
+:Amulet_might: 1
+:Amulet_origin_city: 1
+
+:Amulet_Cost_Gold: 5
+:Amulet_Cost_Wood: 5
+:Amulet_Cost_Metal: 5
+:Amulet_Cost_Dust: 1
+
+:Amulet_Chance_Orc: 0
+:Amulet_Chance_Reserved: 0
+:Amulet_Chance_Kraken: 0
+:Amulet_Chance_Driller: 10
+
+// ---------- OrcTeeth ----------
+:OrcTeeth_Inventory_Max: 50
+:OrcTeeth_Vagon_Max: 50
+:OrcTeeth_lifetime_weeks: 10
+:OrcTeeth_hours: 15
+:OrcTeeth_level: 1
+:OrcTeeth_might: 1
+:OrcTeeth_origin_city: 1
+
+:OrcTeeth_Cost_Gold: 10
+:OrcTeeth_Cost_Metal: 5
+:OrcTeeth_Cost_Dust: 1
+
+:OrcTeeth_Chance_Orc: 10
+:OrcTeeth_Chance_Reserved: 0
+:OrcTeeth_Chance_Kraken: 0
+:OrcTeeth_Chance_Driller: 10
+
+
+
+
+
+
+

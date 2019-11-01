@@ -1,0 +1,42 @@
+// ---------- Rune_Strength ----------
+:Rune_Strength_Cost_Mithril: 5
+:Rune_Strength_Cost_Gold: 500
+:Rune_Strength_Cost_Dragon: 10
+:Rune_Strength_Cost_Dust: 25
+
+// ---------- Rune_Attack ----------
+:Rune_Attack_Cost_Mithril: 5
+:Rune_Attack_Cost_Gold: 500
+:Rune_Attack_Cost_Dragon: 10
+:Rune_Attack_Cost_Dust: 25
+
+// ---------- Rune_Target ----------
+:Rune_Target_Cost_Mithril: 5
+:Rune_Target_Cost_Gold: 500
+:Rune_Target_Cost_Fem: 15
+:Rune_Target_Cost_Dust: 25
+
+// ---------- Rune_Life ----------
+:Rune_Life_Cost_Mithril: 5
+:Rune_Life_Cost_Gold: 500
+:Rune_Life_Cost_Blood: 15
+:Rune_Life_Cost_Dust: 25
+
+// ---------- Rune_Stamina ----------
+:Rune_Stamina_Cost_Mithril: 5
+:Rune_Stamina_Cost_Gold: 500
+:Rune_Stamina_Cost_Fat: 15
+:Rune_Stamins_Cost_Dust: 25
+
+// ---------- Rune_Time ----------
+:Rune_Time_Cost_Mithril: 5
+:Rune_Time_Cost_Gold: 500
+:Rune_Time_Cost_Dragon: 15
+:Rune_Time_Cost_Dust: 25
+
+// ---------- Rune_Mysticism ----------
+:Rune_Mysticism_Cost_Mithril: 5
+:Rune_Mysticism_Cost_Gold: 500
+:Rune_Mysticism_Cost_Dragon: 10
+:Rune_Mysticism_Cost_Dust: 25
+

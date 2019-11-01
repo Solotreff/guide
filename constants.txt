@@ -1,0 +1,1073 @@
+// ---------- Volunteer ----------
+
+// Volunteer hit points
+:Volunteer_HP: 30
+
+
+// Volunteer action points
+:Volunteer_AP: 6
+
+
+// Volunteer visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Volunteer_VSBL: 4
+
+
+// Volunteer distance
+:Volunteer_DIST: 1
+
+
+// Volunteer cohort size
+:Volunteer_CHRT: 15
+
+
+// Volunteer close attack
+:Volunteer_CA: 6
+
+
+// Volunteer distant attack
+:Volunteer_DA: 0
+
+
+// Volunteer magic attack
+:Volunteer_MA: 10
+
+
+// Volunteer close defence
+:Volunteer_CD: 5
+
+
+// Volunteer distant defence
+:Volunteer_DD: 5
+
+
+// Volunteer magic defence
+:Volunteer_MD: 10
+
+// -----------------------------
+
+
+// ---------- Pikeman ----------
+
+// Pikeman hit points
+:Pikeman_HP: 40
+// Pikeman action points
+:Pikeman_AP: 6
+
+
+// Pikeman visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Pikeman_VSBL: 5
+
+
+// Pikeman distance
+:Pikeman_DIST: 1
+
+
+// Pikeman cohort size
+:Pikeman_CHRT: 15
+
+
+// Pikeman close attack
+:Pikeman_CA: 5
+
+
+// Pikeman distant attack
+:Pikeman_DA: 0
+
+
+// Pikeman magic attack
+:Pikeman_MA: 12
+
+
+// Pikeman close defence
+:Pikeman_CD: 6
+
+
+// Pikeman distant defence
+:Pikeman_DD: 6
+
+
+// Pikeman magic defence
+:Pikeman_MD: 12
+
+
+// -----------------------------
+
+
+// ---------- Archer -----------
+
+// Archer hit points
+:Archer_HP: 40
+
+
+// Archer action points
+:Archer_AP: 7
+
+
+// Archer visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Archer_VSBL: 5
+
+
+// Archer distance
+:Archer_DIST: 3
+
+
+// Archer cohort size
+:Archer_CHRT: 10
+
+
+// Archer close attack
+:Archer_CA: 4
+
+
+// Archer distant attack
+:Archer_DA: 6
+
+
+// Archer magic attack
+:Archer_MA: 7
+
+
+// Archer close defence
+:Archer_CD: 5
+
+
+// Archer distant defence
+:Archer_DD: 8
+
+
+// Archer magic defence
+:Archer_MD: 10
+
+// -----------------------------
+
+
+// ----------Arbalester ----------
+
+// Arbalester hit points
+:Arbalester_HP: 50
+
+
+// Arbalester action points
+:Arbalester_AP: 6
+
+
+// Arbalester visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Arbalester_VSBL: 6
+
+
+// Arbalester distance
+:Arbalester_DIST: 2
+
+
+// Arbalester cohort size
+:Arbalester_CHRT: 10
+
+
+// Arbalester close attack
+:Arbalester_CA: 6
+
+
+// Arbalester distant attack
+:Arbalester_DA: 7
+
+
+// Arbalester magic attack
+:Arbalester_MA: 5
+
+
+// Arbalester close defence
+:Arbalester_CD: 9
+
+
+// Arbalester distant defence
+:Arbalester_DD: 10
+
+
+// Arbalester magic defence
+:Arbalester_MD: 8
+
+// -----------------------------
+
+
+// ---------- Swordsman ----------
+
+// Swordsman hit points
+:Swordsman_HP: 50
+
+
+// Swordsman action points
+:Swordsman_AP: 7
+
+
+// Swordsman visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Swordsman_VSBL: 5
+
+
+// Swordsman distance
+:Swordsman_DIST: 1
+
+
+// Swordsman cohort size
+:Swordsman_CHRT: 7
+
+
+// Swordsman close attack
+:Swordsman_CA: 12
+
+
+// Swordsman distant attack
+:Swordsman_DA: 0
+
+
+// Swordsman magic attack
+:Swordsman_MA: 5
+
+
+// Swordsman close defence
+:Swordsman_CD: 9
+
+
+// Swordsman distant defence
+:Swordsman_DD: 8
+
+
+// Swordsman magic defence
+:Swordsman_MD: 6
+// -----------------------------
+
+
+// ---------- Kneht ----------
+
+// Kneht hit points
+:Kneht_HP: 70
+
+
+// Kneht action points
+:Kneht_AP: 5
+
+
+// Kneht visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Kneht_VSBL: 6
+
+
+// Kneht distance
+:Kneht_DIST: 1
+
+
+// Kneht cohort size
+:Kneht_CHRT: 7
+
+
+// Kneht close attack
+:Kneht_CA: 8
+
+
+// Kneht distant attack
+:Kneht_DA: 0
+
+
+// Kneht magic attack
+:Kneht_MA: 13
+
+
+// Kneht close defence
+:Kneht_CD: 12
+
+
+// Kneht distant defence
+:Kneht_DD: 13
+
+
+// Kneht magic defence
+:Kneht_MD: 13
+
+// -----------------------------
+
+
+// ---------- Cavalry ----------
+
+// Cavalry hit points
+:Cavalry_HP: 50
+
+
+// Cavalry action points
+:Cavalry_AP: 12
+
+
+// Cavalry visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Cavalry_VSBL: 5
+
+
+// Cavalry distance
+:Cavalry_DIST: 1
+
+
+// Cavalry cohort size
+:Cavalry_CHRT: 5
+
+
+// Cavalry close attack
+:Cavalry_CA: 9
+
+
+// Cavalry distant attack
+:Cavalry_DA: 0
+
+
+// Cavalry magic attack
+:Cavalry_MA: 7
+
+
+// Cavalry close defence
+:Cavalry_CD: 10
+
+
+// Cavalry distant defence
+:Cavalry_DD: 14
+
+
+// Cavalry magic defence
+:Cavalry_MD: 18
+
+// -----------------------------
+
+
+// ---------- Knight ----------
+
+// Knight hit points
+:Knight_HP: 70
+
+
+// Knight action points
+:Knight_AP: 9
+
+
+// Knight visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Knight_VSBL: 6
+
+
+// Knight distance
+:Knight_DIST: 1
+
+
+// Knight cohort size
+:Knight_CHRT: 5
+
+
+// Knight close attack
+:Knight_CA: 11
+
+
+// Knight distant attack
+:Knight_DA: 0
+
+
+// Knight magic attack
+:Knight_MA: 6
+
+
+// Knight close defence
+:Knight_CD: 12
+
+
+// Knight distant defence
+:Knight_DD: 12
+
+
+// Knight magic defence
+:Knight_MD: 7
+
+// -----------------------------
+
+
+// ---------- Mage ----------
+
+// Mage hit points
+:Mage_HP: 50
+
+
+// Mage action points
+:Mage_AP: 8
+
+
+// Mage visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Mage_VSBL: 5
+
+
+// Mage distance
+:Mage_DIST: 2
+
+
+// Mage cohort size
+:Mage_CHRT: 5
+
+
+// Mage close attack
+:Mage_CA: 7
+
+
+// Mage distant attack
+:Mage_DA: 13
+
+
+// Mage magic attack
+:Mage_MA: 13
+
+
+// Mage close defence
+:Mage_CD: 9
+
+
+// Mage distant defence
+:Mage_DD: 12
+
+
+// Mage magic defence
+:Mage_MD: 10
+
+// -----------------------------
+
+
+// ---------- Orc ----------
+
+// Orc hit points
+:Orc_HP: 30
+
+
+// Orc action points
+:Orc_AP: 7
+
+
+// Orc visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Orc_VSBL: 4
+
+
+// Orc distance
+:Orc_DIST: 1
+
+
+// Orc cohort size
+:Orc_CHRT: 15
+
+
+// Orc close attack
+:Orc_CA: 5
+
+
+// Orc distant attack
+:Orc_DA: 0
+
+
+// Orc magic attack
+:Orc_MA: 6
+
+
+// Orc close defence
+:Orc_CD: 6
+
+
+// Orc distant defence
+:Orc_DD: 15
+
+
+// Orc magic defence
+:Orc_MD: 6
+
+// -----------------------------
+
+
+// ---------- OrcArcher ----------
+
+// OrcArcher hit points
+:OrcArcher_HP: 30
+
+
+// Orc_Archer action points
+:OrcArcher_AP: 8
+
+
+// OrcArcher visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:OrcArcher_VSBL: 5
+
+
+// OrcArcher distance
+:OrcArcher_DIST: 2
+
+
+// OrcArcher cohort size
+:OrcArcher_CHRT: 10
+
+
+// OrcArcher close attack
+:OrcArcher_CA: 4
+
+
+// OrcArcher distant attack
+:OrcArcher_DA: 7
+
+
+// OrcArcher magic attack
+:OrcArcher_MA: 5
+
+
+// OrcArcher close defence
+:OrcArcher_CD: 5
+
+
+// OrcArcher distant defence
+:OrcArcher_DD: 10
+
+
+// OrcArcher magic defence
+:OrcArcher_MD: 4
+
+// -----------------------------
+
+
+// ---------- OrcElite ----------
+
+// OrcElite hit points
+:OrcElite_HP: 50
+
+
+// OrcElite action points
+:OrcElite_AP: 9
+
+
+// OrcElite visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:OrcElite_VSBL: 5
+
+
+// OrcElite distance
+:OrcElite_DIST: 1
+
+
+// OrcElite cohort size
+:OrcElite_CHRT: 7
+
+
+// OrcElite close attack
+:OrcElite_CA: 11
+
+
+// OrcElite distant attack
+:OrcElite_DA: 0
+
+
+// OrcElite magic attack
+:OrcElite_MA: 7
+
+
+// OrcElite close defence
+:OrcElite_CD: 11
+
+
+// OrcElite distant defence
+:OrcElite_DD: 13
+
+
+// OrcElite magic defence
+:OrcElite_MD: 7
+
+// -----------------------------
+
+
+// ---------- OrcShaman ----------
+
+// OrcShaman hit points
+:OrcShaman_HP: 50
+
+
+// OrcShaman action points
+:OrcShaman_AP: 8
+
+
+// OrcShaman visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:OrcShaman_VSBL: 5
+
+
+// OrcShaman distance
+:OrcShaman_DIST: 2
+
+
+// OrcShaman cohort size
+:OrcShaman_CHRT: 5
+
+
+// OrcShaman close attack
+:OrcShaman_CA: 7
+
+
+// OrcShaman distant attack
+:OrcShaman_DA: 7
+
+
+// OrcShaman magic attack
+:OrcShaman_MA: 10
+
+
+// OrcShaman close defence
+:OrcShaman_CD: 9
+
+
+// OrcShaman distant defence
+:OrcShaman_DD: 12
+
+
+// OrcShaman magic defence
+:OrcShaman_MD: 10
+
+// -----------------------------
+
+
+// ---------- Elephant ----------
+
+// Elephant hit points
+:Elephant_HP: 150
+
+
+// Elephant action points
+:Elephant_AP: 6
+
+
+// Elephant visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Elephant_VSBL: 4
+
+
+// Elephant distance
+:Elephant_DIST: 1
+
+
+// Elephant cohort size
+:Elephant_CHRT: 4
+
+
+// Elephant close attack
+:Elephant_CA: 14
+
+
+// Elephant distant attack
+:Elephant_DA: 0
+
+
+// Elephant magic attack
+:Elephant_MA: 10
+
+
+// Elephant close defence
+:Elephant_CD: 12
+
+
+// Elephant distant defence
+:Elephant_DD: 7
+
+
+// Elephant magic defence
+:Elephant_MD: 10
+// -----------------------------
+
+
+// ---------- MountedArcher ----------
+
+// MountedArcher hit points
+:MountedArcher_HP: 60
+
+
+// MountedArcher action points
+:MountedArcher_AP: 9
+
+
+// MountedArcher visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:MountedArcher_VSBL: 4
+
+
+// MountedArcher distance
+:MountedArcher_DIST: 2
+
+
+// MountedArcher cohort size
+:MountedArcher_CHRT: 7
+
+
+// MountedArcher close attack
+:MountedArcher_CA: 6
+
+
+// MountedArcher distant attack
+:MountedArcher_DA: 7
+
+
+// MountedArcher magic attack
+:MountedArcher_MA: 6
+
+
+// MountedArcher close defence
+:MountedArcher_CD: 9
+
+
+// MountedArcher distant defence
+:MountedArcher_DD: 9
+
+
+// MountedArcher magic defence
+:MountedArcher_MD: 10
+
+// -----------------------------
+
+
+// ---------- Jinn ----------
+
+// Jinn hit points
+:Jinn_HP: 70
+
+
+// Jinn action points
+:Jinn_AP: 7
+
+
+// Jinn visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Jinn_VSBL: 4
+
+
+// Jinn distance
+:Jinn_DIST: 1
+
+
+// Jinn cohort size
+:Jinn_CHRT: 7
+
+
+// Jinn close attack
+:Jinn_CA: 7
+
+
+// Jinn distant attack
+:Jinn_DA: 0
+
+
+// Jinn magic attack
+:Jinn_MA: 4
+
+
+// Jinn close defence
+:Jinn_CD: 9
+
+
+// Jinn distant defence
+:Jinn_DD: 9
+
+
+// Jinn magic defence
+:Jinn_MD: 8
+
+// -----------------------------
+
+
+// ---------- Assasin ----------
+
+// Assasin hit points
+:Assasin_HP: 60
+
+
+// Assasin action points
+:Assasin_AP: 8
+
+
+// Assasin visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Assasin_VSBL: 4
+
+
+// Assasin distance
+:Assasin_DIST: 1
+
+
+// Assasin cohort size
+:Assasin_CHRT: 7
+
+
+// Assasin close attack
+:Assasin_CA: 10
+
+
+// Assasin distant attack
+:Assasin_DA: 0
+
+
+// Assasin magic attack
+:Assasin_MA: 10
+
+
+// Assasin close defence
+:Assasin_CD: 9
+
+
+// Assasin distant defence
+:Assasin_DD: 12
+
+
+// Assasin magic defence
+:Assasin_MD: 10
+
+// -----------------------------
+
+
+// ---------- Elf ----------
+
+// Elf hit points
+:Elf_HP: 50
+
+
+// Elf action points
+:Elf_AP: 7
+
+
+// Elf visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:Elf_VSBL: 5
+
+
+// Elf distance
+:Elf_DIST: 3
+
+
+// Elf cohort size
+:Elf_CHRT: 10
+
+
+// Elf close attack
+:Elf_CA: 5
+
+
+// Elf distant attack
+:Elf_DA: 6
+
+
+// Elf magic attack
+:Elf_MA: 10
+
+
+// Elf close defence
+:Elf_CD: 6
+
+
+// Elf distant defence
+:Elf_DD: 8
+
+
+// Elf magic defence
+:Elf_MD: 10
+
+// -----------------------------
+
+
+// ---------- OrcSlinger ----------
+
+// OrcSlinger hit points
+:OrcSlinger_HP: 40
+// OrcSlinger action points
+:OrcSlinger_AP: 7
+
+
+// OrcSlinger visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:OrcSlinger_VSBL: 5
+
+
+// OrcSlinger distance
+:OrcSlinger_DIST: 3
+
+
+// OrcSlinger cohort size
+:OrcSlinger_CHRT: 10
+
+
+// OrcSlinger close attack
+:OrcSlinger_CA: 3
+
+
+// OrcSlinger distant attack
+:OrcSlinger_DA: 6
+
+
+// OrcSlinger magic attack
+:OrcSlinger_MA: 4
+
+
+// OrcSlinger close defence
+:OrcSlinger_CD: 6
+
+
+// OrcSlinger distant defence
+:OrcSlinger_DD: 10
+
+
+// OrcSlinger magic defence
+:OrcSlinger_MD: 4
+
+// -----------------------------
+
+
+// ---------- OrcAxer ----------
+
+// OrcAxer hit points
+:OrcAxer_HP: 50
+
+
+// OrcAxer action points
+:OrcAxer_AP: 6
+
+
+// OrcAxer visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:OrcAxer_VSBL: 6
+
+
+// OrcAxer distance
+:OrcAxer_DIST: 2
+
+
+// OrcAxer cohort size
+:OrcAxer_CHRT: 10
+
+
+// OrcAxer close attack
+:OrcAxer_CA: 6
+
+
+// OrcAxer distant attack
+:OrcAxer_DA: 7
+
+
+// OrcAxer magic attack
+:OrcAxer_MA: 5
+
+
+// OrcAxer close defence
+:OrcAxer_CD: 9
+
+
+// OrcAxer distant defence
+:OrcAxer_DD: 10
+
+
+// OrcAxer magic defence
+:OrcAxer_MD: 8
+
+// -----------------------------
+
+
+// ---------- OrcOgre ----------
+
+// OrcOgre hit points
+:OrcOgre_HP: 80
+
+
+// OrcOgre action points
+:OrcOgre_AP: 4
+
+
+// OrcOgre visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:OrcOgre_VSBL: 6
+
+
+// OrcOgre distance
+:OrcOgre_DIST: 1
+
+
+// OrcOgre cohort size
+:OrcOgre_CHRT: 7
+
+
+// OrcOgre close attack
+:OrcOgre_CA: 8
+
+
+// OrcOgre distant attack
+:OrcOgre_DA: 0
+
+
+// OrcOgre magic attack
+:OrcOgre_MA: 13
+
+
+// OrcOgre close defence
+:OrcOgre_CD: 13
+
+
+// OrcOgre distant defence
+:OrcOgre_DD: 16
+
+
+// OrcOgre magic defence
+:OrcOgre_MD: 13
+
+// -----------------------------
+
+
+// ---------- DarkKnight ----------
+
+// DarkKnight hit points
+:DarkKnight_HP: 75
+
+
+// DarkKnight action points
+:DarkKnight_AP: 8
+
+
+// DarkKnight visibility
+// The distance the unit can be spotted at with supersensing equal to 0
+:DarkKnight_VSBL: 6
+
+
+// DarkKnight distance
+:DarkKnight_DIST: 1
+
+
+// DarkKnight cohort size
+:DarkKnight_CHRT: 5
+
+
+// DarkKnight close attack
+:DarkKnight_CA: 12
+
+
+// DarkKnight distant attack
+:DarkKnight_DA: 0
+
+
+// DarkKnight magic attack
+:DarkKnight_MA: 6
+
+
+// DarkKnight close defence
+:DarkKnight_CD: 10
+
+
+// DarkKnight distant defence
+:DarkKnight_DD: 14
+
+
+// DarkKnight magic defence
+:DarkKnight_MD: 7
+
+// -----------------------------
+
+
