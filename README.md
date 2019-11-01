@@ -1,5 +1,5 @@
-# tb2-docs
+Game guide
 
-Documentation
-TB2 документация
+The game server is configured with the data from this guide
+
 
