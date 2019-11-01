@@ -1,0 +1,33 @@
+{Базовые войска|Войска в стратегической онлайн игре TerraBellica 2|В данной статье рассказывается о базовых видах войск: ополченцах, пикинерах, лучниках, арбалетчиках, мечниках, кнехтах, разведчиках, рыцарях, магах.|ополченцы, пикинеры, лучники, арбалетчики, мечники, кнехты, разведчики, рыцари, маги}
+===
+<p>Все юниты обладают индивидуальными особенностями. Универсальных войск нет. Для каких-то целей лучше подходят одни войска, для других - другие. Хороший тактик всегда будет использовать преимущества каждого войска.
+
+===
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+<tr>
+<td width=100% colspan=4 align=center><b>Базовые войска:</b></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/heroes><img src=9000.gif border=0 width=40 height=40 alt="Герои"><br>Герой</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/225><img src=9010.gif border=0 width=40 height=40 alt="Ополченцы"><br>Ополченцы</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/226><img src=9020.gif border=0 width=40 height=40 alt="Пикинеры"><br>Пикинеры</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/227><img src=9030.gif border=0 width=40 height=40 alt="Лучники"><br>Лучники</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/228><img src=9040.gif border=0 width=40 height=40 alt="Арбалетчики"><br>Арбалетчики</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/229><img src=9050.gif border=0 width=40 height=40 alt="Мечники"><br>Мечники</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/230><img src=9060.gif border=0 width=40 height=40 alt="Кнехты"><br>Кнехты</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/231><img src=9070.gif border=0 width=40 height=40 alt="Разведчики"><br>Разведчики</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center> </td>
+<td width=25% align=center><a href=http://classic.localhost/book/232><img src=9080.gif border=0 width=40 height=40 alt="Рыцари"><br>Рыцари</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/233><img src=9090.gif border=0 width=40 height=40 alt="Маги"><br>Маги</a></td>
+<td width=25% align=center> </td>
+</tr>
+
+</td></tr></table>

@@ -1,0 +1,124 @@
+{Магические свитки|||Магические свитки}
+===
+
+<p>Магические свитки позволяют героям, у которых развит навык светлой или темной магии, колдовать. На каждое заклинание герой тратит 1 свиток, 1 ход и определенное количество маны.
+
+
+
+===
+
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+
+
+<tr>
+
+<td width=100% colspan=4 align=center><b>Светлые заклинания</b></td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/195 onclick="hlp(195); return false"><img src=it/1954.gif border=0 width=40 height=30><br>Радуга</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/193 onclick="hlp(193); return false"><img src=it/1934.gif border=0 width=40 height=30><br>Благословение</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/194 onclick="hlp(194); return false"><img src=it/1944.gif border=0 width=40 height=30><br>Куст терновника</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/199 onclick="hlp(199); return false"><img src=it/1994.gif border=0 width=40 height=30><br>Дождь</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/198 onclick="hlp(198); return false"><img src=it/1984.gif border=0 width=40 height=30><br>Суперсенсинг</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/203 onclick="hlp(203); return false"><img src=it/2034.gif border=0 width=40 height=30><br>Маскировка</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/202 onclick="hlp(202); return false"><img src=it/2024.gif border=0 width=40 height=30><br>Отражение</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/204 onclick="hlp(204); return false"><img src=it/2044.gif border=0 width=40 height=30><br>Рассеивание</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/213 onclick="hlp(213); return false"><img src=it/2134.gif border=0 width=40 height=30><br>Отмена</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/220 onclick="hlp(220); return false"><img src=it/2204.gif border=0 width=40 height=30><br>Горгулья</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/212 onclick="hlp(212); return false"><img src=it/2124.gif border=0 width=40 height=30><br>Портал</a></td>
+
+</tr>
+
+
+
+</td></tr></table>
+
+
+
+
+
+===
+
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+
+
+<tr>
+
+<td width=100% colspan=4 align=center><b>Темные заклинания</b></td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/196 onclick="hlp(196); return false"><img src=it/1964.gif border=0 width=40 height=30><br>Проклятие</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/197 onclick="hlp(197); return false"><img src=it/1974.gif border=0 width=40 height=30><br>Огненная стена</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/201 onclick="hlp(201); return false"><img src=it/2014.gif border=0 width=40 height=30><br>Паутина</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/200 onclick="hlp(200); return false"><img src=it/2004.gif border=0 width=40 height=30><br>Слабость</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/206 onclick="hlp(206); return false"><img src=it/2064.gif border=0 width=40 height=30><br>Вихрь</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/207 onclick="hlp(207); return false"><img src=it/2074.gif border=0 width=40 height=30><br>Пентаграмма</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/205 onclick="hlp(205); return false"><img src=it/2054.gif border=0 width=40 height=30><br>Забывчивость</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/211 onclick="hlp(211); return false"><img src=it/2114.gif border=0 width=40 height=30><br>Обездвиживание</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/210 onclick="hlp(210); return false"><img src=it/2104.gif border=0 width=40 height=30><br>Ослепление</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/215 onclick="hlp(215); return false"><img src=it/2154.gif border=0 width=40 height=30><br>Мина</a></td>
+
+<td width=25% align=center> </td>
+
+<td width=25% align=center> </td>
+
+</tr>
+
+
+
+</td></tr></table>

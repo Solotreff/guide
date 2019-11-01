@@ -1,0 +1,162 @@
+(potions)
+{Зелья|Зелья||}
+===
+
+<p>Зелья производят базовые магические заклинания, которые герой может применить к самому себе, выпив снадобье.
+
+
+
+===
+
+<p><b>Алхимия</b>
+
+
+
+<p><img src=9162.gif width=40 height=40 align=left>Для приготовления зелий потребуется алхимический котел. Существуют несколько наборов зелий (альфа, бета..), каждый из которых имеет свои ингредиенты. Для каждого набора необходимо выбрать определенное количество ингредиентов и положить в котел. Ежедневно все котлы получают свои комбинации ингредиентов для каждого зелья, вам необходимо угадать их. В других котлах игрока могут быть другие комбинации.
+
+<p>Каждый котел имеет 3 хода в сутки. Если вы угадаете правильную комбинацию на первом ходе, то сможете до конца дня сварить зелье еще 2 раза, используя этот же набор ингредиентов. Если вы угадаете правильный набор на третьем ходе, то он и будет единственным результативным.
+
+
+
+<p>Внимание. Чем чаще какой-то ингредиент будет использоваться игроками в экспериментах по приготовлению определенного набора зелий, тем меньше шансов, что на следующий день он будет входить в его рецепты, и наоборот.
+
+
+
+===
+
+<p><b>Виды зелий</b>
+
+
+
+<p>Зелья разного типа имеют разный цвет бутылки (зеленый, красный, синий, серый).
+
+
+===
+
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+
+
+<tr>
+
+<td width=100% colspan=4><b>Зеленые зелья</b><br>Зеленые зелья не имеют никаких особенностей, они начинают действовать на героя сразу после приема.
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/4 onclick="hlp(4); return false"><img src=it/44.gif border=0 width=40 height=30><br>Лесной дух</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/11 onclick="hlp(11); return false"><img src=it/114.gif border=0 width=40 height=30><br>Узы смерти</a></td>
+
+<td width=25% align=center> </td>
+
+<td width=25% align=center> </td>
+
+</tr>
+
+
+
+</td></tr></table>
+
+
+
+
+
+===
+
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+
+
+<tr>
+
+<td width=100% colspan=4><b>Красные зелья</b><br>Чары, образованные красными зельями, спадают с героя, если он начинает атаковать или двигаться. Данные зелья в первую очередь предназначены для оффлайновой защиты.</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/2 onclick="hlp(2); return false"><img src=it/24.gif border=0 width=40 height=30><br>Зелье здоровья</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/6 onclick="hlp(6); return false"><img src=it/64.gif border=0 width=40 height=30><br>Личная защита</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/7 onclick="hlp(7); return false"><img src=it/74.gif border=0 width=40 height=30><br>Зелье ловкости</a></td>
+
+<td width=25% align=center> </td>
+
+</tr>
+
+
+
+</td></tr></table>
+
+
+
+===
+
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+
+
+<tr>
+
+<td width=100% colspan=4><b>Синие зелья</b><br>Особенностью синих зелий является то, что они образуют чары, которые нельзя снять, пока они не отработают свое время. Данные зелья помимо положительных свойств имеют и отрицательные, и они будут действовать на героя в течение всего этого времени. Нельзя пить синие зелья в замке, как и заходить в замки находясь под воздействием чар от синих зелий.</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/3 onclick="hlp(3); return false"><img src=it/34.gif border=0 width=40 height=30><br>Спринт</a></td>
+
+<td width=25% align=center> </td>
+
+<td width=25% align=center> </td>
+
+<td width=25% align=center> </td>
+
+</tr>
+
+
+
+</td></tr></table>
+
+
+
+===
+
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+
+
+<tr>
+
+<td width=100% colspan=4><b>Серые зелья</b><br>Серые зелья создают защиту от темной магии. Данные зелья необходимо принимать заблаговременно - до того, как к герою будет применена магия.</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=25% align=center><a href=http://classic.localhost/book/8 onclick="hlp(8); return false"><img src=it/84.gif border=0 width=40 height=30><br>Анти-ослепление</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/9 onclick="hlp(9); return false"><img src=it/94.gif border=0 width=40 height=30><br>Анти-забывчивость</a></td>
+
+<td width=25% align=center><a href=http://classic.localhost/book/10 onclick="hlp(10); return false"><img src=it/104.gif border=0 width=40 height=30><br>Анти-ослабление</a></td>
+
+<td width=25% align=center> </td>
+
+</tr>
+
+
+
+</td></tr></table>

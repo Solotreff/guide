@@ -1,0 +1,45 @@
+(builds)
+{Здания|Здания в замках TerraBellica 2|Здания в стратегической игре TerraBellica 2: Верфь, Центр деревни, Стена,Таверна, Рынок, Банк, Мастерская, Кузница, Смотровая башня, Казармы, Гарнизон, Стрельбище, Цитадель, Цех, Школа, Обсерватория, Дороги, Фабрика, Полигон, Орден меча, Орден щита, Конюшни, Арена, Башня магов, Храм, Дворец, Академия|постройки, развитие, экономика}
+===
+<p>Основав <a href=http://classic.localhost/~book/castles>поселение</a> вы можете его отстраивать, добавляя и улучшая здания в нем в соответствии с уровнем развития.<br>
+<p>Все военные здания при улучшении дают ускорение прироста <a href=http://classic.localhost/~book/units>войск</a> в них, в соответствии с формулой: <br>
+<b>итоговое время = ((базовое время прироста)х8)/((уровень здания)+7)</b>
+<p>Храм в любом поселений может быть только один и при смене религии меняется в соответствии с религией.
+===
+<img src=3.gif align=left><b>Деревня</b> - возможность улучшать здания до 4 уровня, стену до 25<br><br><br>
+<li><a href=http://classic.localhost/book/258><b>Центр деревни</b></a> - строится сразу с основанием деревни<br>
+<li><a href=http://classic.localhost/book/289><b>Стена</b></a> - каждый уровень стены дает дополнительную защиту вашему поселению<br>
+<li><a href=http://classic.localhost/book/257><b>Таверна</b></a> - уровней не имеет, требуется для найма и воскрешения павших героев<br>
+<li><a href=http://classic.localhost/book/270><b>Рынок</b></a> - не имеет уровней, однако лавку внутри рынка можно улучшать<br>
+<li><a href=http://classic.localhost/book/295><b>Банк</b></a> - уровней не имеет<br>
+<li><a href=http://classic.localhost/book/280><b>Мастерская</b></a> - уровней не имеет, но может быть улучшена до <a href=http://classic.localhost/book/281><b>Цеха</b></a><br>
+<li><a href=http://classic.localhost/book/282><b>Кузница</b></a><br>
+<li><a href=http://classic.localhost/book/274><b>Смотровая башня</b></a> - могут быть улучшены до <a href=http://classic.localhost/book/294><b>Обсерватории</b></a><br>
+<li><a href=http://classic.localhost/book/260><b>Казармы</b></a> - могут быть улучшены до <a href=http://classic.localhost/book/290><b>Гарнизона</b></a><br>
+<li><a href=http://classic.localhost/book/290><b>Гарнизон</b></a> - улучшается из <a href=http://classic.localhost/book/260><b>Казарм</b></a><br>
+<li><a href=http://classic.localhost/book/264><b>Стрельбище</b></a> - могут быть улучшены до <a href=http://classic.localhost/book/291><b>Полигона</b></a><br>
+<li><a href=http://classic.localhost/book/259><b>Цитадель</b></a> - преобразовывает деревню в город<br>
+
+<br><img src=13.gif align=left><b>Город</b> - возможность улучшать здания до 13 уровня, кузницу до 16 уровня, стену до 80 уровня.<br><br><br>
+
+<li><a href=http://classic.localhost/book/281><b>Цех</b></a> - уровней не имеет, улучшается из <a href=http://classic.localhost/book/280><b>Мастерской</b></a><br>
+<li><a href=http://classic.localhost/book/277><b>Школа</b></a> - уровней не имеет, может быть улучшена до <a href=http://classic.localhost/book/278><b>Академии</b></a><br>
+<li><a href=http://classic.localhost/book/294><b>Обсерватория</b></a> - улучшается из <a href=http://classic.localhost/book/274><b>Смотровой башни</b></a><br>
+<li><a href=http://classic.localhost/book/287><b>Дороги</b></a><br>
+<li><a href=http://classic.localhost/book/288><b>Фабрика</b></a><br>
+<li><a href=http://classic.localhost/book/291><b>Полигон</b></a> - улучшается из <a href=http://classic.localhost/book/264><b>Стрельбищ</b></a><br>
+<li><a href=http://classic.localhost/book/262><b>Орден меча</b></a> - может быть улучшен до <a href=http://classic.localhost/book/292><b>Ордена щита</b></a><br>
+<li><a href=http://classic.localhost/book/292><b>Орден щита</b></a> - улучшается из <a href=http://classic.localhost/book/262><b>Ордена меча</b></a><br>
+<li><a href=http://classic.localhost/book/266><b>Конюшни</b></a> - могут быть улучшены до <a href=http://classic.localhost/book/293><b>Арены</b></a><br>
+<li><a href=http://classic.localhost/book/293><b>Арена</b></a> - улучшается из <a href=http://classic.localhost/book/266><b>Конюшни</b></a><br>
+<li><a href=http://classic.localhost/book/268><b>Башня магов</b></a><br>
+<li><a href=http://classic.localhost/book/298><b>Храм религии силы</b></a><br>
+<li><a href=http://classic.localhost/book/299><b>Храм религии стремительности</b></a><br>
+<li><a href=http://classic.localhost/book/300><b>Храм религии магии</b></a><br>
+<li><a href=http://classic.localhost/book/301><b>Храм религии диверсий</b></a><br>
+<li><a href=http://classic.localhost/book/302><b>Храм религии лесов</b></a><br>
+<li><a href=http://classic.localhost/book/284><b>Дворец</b></a> - преобразовывает город в метрополис<br>
+
+<br><img src=23.gif align=left><b>Метрополис</b> - позволяет улучшать все здания до максимального 250 уровня, стену до 255<br><br><br>
+
+<li><a href=http://classic.localhost/book/278><b>Академия</b></a> -уровней не имеет, улучшается из <a href=http://classic.localhost/book/277><b>Школы</b></a><br>

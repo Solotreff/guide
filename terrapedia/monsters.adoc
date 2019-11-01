@@ -1,0 +1,29 @@
+{Монстры в стратегической игре TerraBellica 2|Существа в мире игры|орк, орк шаман, дракон, демон, кракен|Монстры}
+===
+<p>В TerraBellica 2 можно встретить разнообразных монстров
+
+===
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/235><img src=9110.gif border=0 width=40 height=40><br>Орк</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/236><img src=9120.gif border=0 width=40 height=40><br>Орк-лучник</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/237><img src=9130.gif border=0 width=40 height=40><br>Элитный орк</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/238><img src=9140.gif border=0 width=40 height=40><br>Шаман</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/244><img src=9200.gif border=0 width=40 height=40><br>Орк-пращник</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/245><img src=9210.gif border=0 width=40 height=40><br>Метатель топоров</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/246><img src=9220.gif border=0 width=40 height=40><br>Огр</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/247><img src=9230.gif border=0 width=40 height=40><br>Темный рыцарь</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/322><img src=9022.gif border=0 width=45 height=45><br>Дракон</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/338><img src=9182.gif border=0 width=42 height=42><br>Кракен</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/321><img src=9722.gif border=0 width=40 height=40><br>Демон</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/351><img src=gargoyle.gif border=0 width=40 height=40><br>Каменная горгулья</a></td>
+</tr>
+
+</table>

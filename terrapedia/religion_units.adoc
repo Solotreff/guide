@@ -1,0 +1,20 @@
+{Войска религий|Войска религий|В данной статье рассказывается о видах войск различных религий: элефантах, кочевниках, джиннах, ассасинов и эльфах|Религиозные войска, Войска религий, Элефанты, Кочевники, Джинны, Ассасины, Эльфы}
+===
+<p>Каждый поклонник выбранной религии может призывать в своем храме войска своей религии, каждое войско имеет свои особенности и умения.
+
+===
+<table width=100% cellpadding=8 cellspacing=0 class=xtabl>
+
+<tr>
+<td width=100% colspan=6 align=center><b>Войска религий:</b></td>
+</tr>
+
+<tr>
+<td width=20% align=center><a href=http://classic.localhost/book/239><img src=9150.gif border=0 width=40 height=40 alt="Элефанты"><br>Элефанты</a></td>
+<td width=20% align=center><a href=http://classic.localhost/book/240><img src=9160.gif border=0 width=40 height=40 alt="Кочевники"><br>Кочевники</a></td>
+<td width=20% align=center><a href=http://classic.localhost/book/241><img src=9170.gif border=0 width=40 height=40 alt="Джинны"><br>Джинны</a></td>
+<td width=20% align=center><a href=http://classic.localhost/book/242><img src=9180.gif border=0 width=40 height=40 alt="Ассасины"><br>Ассасины</a></td>
+<td width=20% align=center><a href=http://classic.localhost/book/243><img src=9190.gif border=0 width=40 height=40 alt="Эльфы"><br>Эльфы</a></td>
+</tr>
+
+</td></tr></table>

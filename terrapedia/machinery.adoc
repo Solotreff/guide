@@ -1,0 +1,66 @@
+{Техника в стратегической игре TerraBellica 2|Основные виды техники и строений: галеон, когг, субмарина, катапульта, пушка, обоз, дирижабль, башня, ставка, шахта, строитель, алхимический котел|галеон, когг, субмарина, катапульта, пушка, обоз, дирижабль, башня, ставка, шахта, строитель, алхимический котел|Техника и полевые строения}
+===
+<p>Помимо войск в игре существует боевая и хозяйственная техника, а также корабли. Они представляют из себя самостоятельные юниты. Для производства техники необходимы <a href=http://classic.localhost/book/280>Мастерская</a> или <a href=http://classic.localhost/book/281>Цех</a>.
+
+<p>На технику не действуют <a href=http://classic.localhost/book/scrolls>заклинания</a> (кроме <a href=http://classic.localhost/book/206>вихря</a> и <a href=http://classic.localhost/book/197>огненной стены</a>) и <a href=http://classic.localhost/book/1010>артефакты</a>, она не получает опыт в бою - все параметры задаются в момент создания. Грузоподъёмность указана для товаров, при загрузке войск одна геройская грузоподъемность равна одной когорте. Срок службы технических средств ограничен, после его окончания техника перестает функционировать и будет иметь пониженный уровень HP.
+Сохранность отслужившей техники не гарантируется - она может быть удалена в любой момент.<br>
+Флот имеет дополнительные особенности:<br>
+1) Автоатака не блокируется ни у одного корабля;<br>
+2) Срок восстановления HP - 2 дня;<br>
+3) Корабли до спуска на воду требуют 1 ход для передвижения по любой поверхности (0.5 по дороге). <br>
+4) Галеон:<br>
+ - Атака против брандеров 20%;<br>
+ - Атака против фрегатов 130%.<br>
+5) Фрегат:<br>
+ - Атака против брандеров 130% .<br>
+6) Брандер:<br>
+ - Атака против фрегатов 70%.<br>
+7) Подводная лодка:<br>
+ - Атака против линкоров 550%;<br>
+ - Атака против транспортов 50%.<br>
+8) Когг:<br>
+ - Атака против подлодки 500%.<br>
+
+===
+<table width=100% cellpadding=6 cellspacing=0 class=xtabl>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/345><img src=9252.gif border=0 width=40 height=40><br>Фрегат</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/347><img src=9032.gif border=0 width=40 height=40><br>Галеон</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/346><img src=9262.gif border=0 width=40 height=40><br>Линкор</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/348><img src=9042.gif border=0 width=40 height=40><br>Когг</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/344><img src=9242.gif border=0 width=40 height=40><br>Транспорт</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/343><img src=9232.gif border=0 width=40 height=40><br>Брандер</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/350><img src=9052.gif border=0 width=40 height=40><br>Субмарина</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/335><img src=9152.gif border=0 width=40 height=40><br>Пушка</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/330><img src=9102.gif border=0 width=40 height=40><br>Обоз</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/332><img src=9122.gif border=0 width=40 height=40><br>Дирижабль</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/326><img src=9062.gif border=0 width=40 height=40><br>Катапульта</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/334><img src=142.gif border=0 width=40 height=40><br>Ставка</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/329><img src=9332.gif border=0 width=40 height=40><br>Шахта</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/337><img src=9172.gif border=0 width=40 height=40><br>Строитель</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/336><img src=9162.gif border=0 width=40 height=40><br>Алхимический котел</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/340><img src=9702.gif border=0 width=42 height=42><br>Ворота</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/341><img src=9212.gif border=0 width=40 height=40><br>Бурильщик</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/333><img src=9342.gif border=0 width=40 height=40><br>Башня</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/320><img src=2.gif border=0 width=40 height=40><br>Нуль</a></td>
+</tr>
+
+<tr>
+<td width=25% align=center><a href=http://classic.localhost/book/349><img src=692.gif border=0 width=42 height=42><br>Клан.башня</a></td>
+<td width=25% align=center><a href=http://classic.localhost/book/342><img src=9222.gif border=0 width=40 height=40><br>Ёлка</a></td>
+</tr>
+
+</table>

@@ -1,0 +1,11 @@
+{Миры TerraBellica 2|Миры в онлайновой стратегической игре TerraBellica 2|Описание всех параллельных миров, существующих в игре; географические и политические карты, рейтинги игроков.|Славия}
+===
+<p><a href="http://classic.localhost/worlds/8/0"><b>Славия</b></a> (освоенные земли, крупные альянсы)
+<p><u>Рейтинги:</u>
+<p>
+<a href="http://classic.localhost/book/Slavia/top2">Самые развитые игроки</a>,
+<a href="http://classic.localhost/book/Slavia/top3">Сильнейшие армии</a>, 
+<a href="http://classic.localhost/book/Slavia/top5">Лучшие экономики</a>, 
+<a href="http://classic.localhost/book/Slavia/top4">Рейтинг торговцев</a>
+<a href="http://classic.localhost/book/Slavia/top8">Самые активные кланы</a>
+<a href="http://classic.localhost/book/Slavia/top9">Правители арены</a>

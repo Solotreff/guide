@@ -1,0 +1,20 @@
+{FAQ (Часто задаваемые вопросы)|FAQ||}
+===
+
+<p>
+
+<a href="http://classic.localhost/book/faq_general">Общие вопросы</a>
+<br>
+(интерфейс и т.п.)
+
+<p>
+
+<a href="http://classic.localhost/book/faq_econ">Экономика игры</a>
+<br>
+(замки, строения в замках, развитие, менеджмент)
+
+<p>
+
+<a href="http://classic.localhost/book/faq_war">Военные действия</a>
+<br>
+(монстры, раскачка героя, тактика ведения боевых действий)
