@@ -1,0 +1,55 @@
+{Книга знаний|Энциклопедия стратегической онлайн игры TerraBellica 2|стратегия, экономика, торговля, войны|Содержание}
+===
+
+<table width=100% cellpadding=6 cellspacing=0><tr><td width=50% style='font-size: 14px; padding-left: 10px; color:black' valign=top>
+
+<a href=http://classic.localhost/book/basics>Основы игры</a><br>
+<a href=http://classic.localhost/book/prehistory>Предыстория мира</a><br>
+<a href=http://classic.localhost/book/worlds>Миры</a><br>
+<a href=http://classic.localhost/book/karma>Карма</a><br>
+
+
+<a href=http://classic.localhost/book/artifacts>Артефакты</a><br>
+
+<b>Тактика</b><br>
+<li><a href=http://classic.localhost/book/tactics>Тактические правила</a><br>
+<li><a href=http://classic.localhost/book/terrain>Типы территории</a><br>
+<li><a href=http://classic.localhost/book/arena>Арена</a><br>
+<li><a href=http://classic.localhost/book/religions>Религии</a><br>
+<li><a href=http://classic.localhost/book/markers>Маркеры</a><br>
+
+<b>Замки</b><br>
+<li><a href=http://classic.localhost/book/castles>Общие сведения</a><br>
+<li><a href=http://classic.localhost/book/resources>Производство ресурсов</a><br>
+<li><a href=http://classic.localhost/book/buildings>Здания</a><br>
+<li><a href=http://classic.localhost/book/castle_bonuses>Бонусы замков</a><br>
+<li><a href=http://classic.localhost/book/trade>Торговля</a><br>
+<li><a href=http://classic.localhost/book/walls>Стены</a><br>
+
+<b>Юниты</b><br>
+<li><a href=http://classic.localhost/book/heroes>Герои</a><br>
+<li><a href=http://classic.localhost/book/units>Базовые войска</a><br>
+<li><a href=http://classic.localhost/book/religion_units>Войска религий</a><br>
+<li><a href=http://classic.localhost/book/monsters>Монстры</a><br>
+<li><a href=http://classic.localhost/book/machinery>Техника</a><br>
+
+<b>Магия</b><br>
+<li><a href=http://classic.localhost/book/magic>Основы магии</a><br>
+<li><a href=http://classic.localhost/book/scrolls>Свитки</a><br>
+<li><a href=http://classic.localhost/book/potions>Зелья и алхимия</a><br>
+
+
+
+</td><td width=50% style='font-size: 14px; padding-left: 10px; color: black' valign=top>
+
+<b>Квесты</b><br>
+
+<p><br>
+
+<a href=http://classic.localhost/book/chat/>Чат</a><br>
+<a href=http://classic.localhost/book/pravila>Правила игры</a><br>
+<br>
+
+<a href=http://classic.localhost/book/faq/>Часто задаваемые вопросы</a><br>
+
+</td></tr></table>
